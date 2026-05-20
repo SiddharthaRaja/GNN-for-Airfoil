@@ -1,0 +1,45 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# data directories
+data/
+airfrans_data/
+*.pt
+*.pth
+
+# results
+results/
+results_*/
+evaluation_results*/
+
+# plots and images
+*.png
+*.jpg
+*.pdf
+*.pptx
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# os
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
